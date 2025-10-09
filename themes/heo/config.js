@@ -39,7 +39,7 @@ const CONFIG = {
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
-    '',
+    '我的网站',
     '🔍 分享与热心帮助',
     '🤝 专修交互与设计',
     '🏃 脚踏实地行动派',
@@ -49,10 +49,10 @@ const CONFIG = {
   ],
 
   // 个人资料底部按钮
-  HEO_INFO_CARD_URL1: '/about',
-  HEO_INFO_CARD_ICON1: 'fas fa-user',
-  HEO_INFO_CARD_URL2: 'https://github.com/tangly1024',
-  HEO_INFO_CARD_ICON2: 'fab fa-github',
+  HEO_INFO_CARD_URL1: 'https://xhslink.com/m/97bk9CCYPdr',
+  HEO_INFO_CARD_ICON1: 'fa-solid fa-house',
+  HEO_INFO_CARD_URL2: 'https://b23.tv/rJ23tYz',
+  HEO_INFO_CARD_ICON2: 'fa-brands fa-bilibili',
   HEO_INFO_CARD_URL3: 'https://www.pmstudy.site',
   HEO_INFO_CARD_TEXT3: '前往官网',
 
