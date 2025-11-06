@@ -23,7 +23,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: 'gri.wang.com',
   HEO_HERO_TITLE_4: '官网上线',
   HEO_HERO_TITLE_5: '前往PM成长研究所',
-  HEO_HERO_TITLE_LINK: 'https://www.pmstudy.site',
+  HEO_HERO_TITLE_LINK: '',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '摸摸鱼',
 
